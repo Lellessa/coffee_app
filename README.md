@@ -4,7 +4,7 @@ A front-end design for a shoe store app.
 
 ## App
 
-![](screenshots.png)
+![](assets/screenshots.png)
 
 ### Packages
 
