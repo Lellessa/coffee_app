@@ -12,4 +12,4 @@ A front-end design for a shoe store app.
 
 ### Design credits
 
-* @sajon007: [link](https://www.instagram.com/sajon007/)
+* @Dezain Pixel: [link](https://dribbble.com/shots/15278769-Coffee-Shop-App-Concept)
